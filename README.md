@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Victor!
+ 👋
 <!---
 - 👀 I’m interested in web developing, internet of things and computer graphics
 - 🌱 I’m currently learning everything, i started a college graduation in 2021 on information systems in Universidade de São Paulo, so i'm building my knowledge from the bottom
